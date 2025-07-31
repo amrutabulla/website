@@ -1,0 +1,45 @@
+.external{
+    color: green;
+}
+
+#text{
+    background-color: aqua;
+}
+
+.text{
+    background-color: bisque;
+}
+
+h6{
+    background-color: chartreuse;
+}
+.t1{
+    color: green;
+}
+.t1{
+    color: red;
+}
+.text.style{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    color: blueviolet;
+}
+.box{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    border: 2px solid black;
+    padding:20px ;
+    margin: 10px;
+    background-color: blanchedalmond;
+}
+.bg-img{
+    background-image:url(https://png.pngtree.com/thumb_back/fh260/background/20240601/pngtree-nice-picsart-cb-backgrounds-hd-phone-wallpaper-image_15846248.jpg) ;
+    height: 300px;
+    background-size: cover;
+}
+.bg-img h2{
+    color: black;
+}
